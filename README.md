@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on satellite task scheduling based on DRL and Basilisk.
+- 📫 How to reach me: hithxh@gmail.com
+
 <!--
 **hithxh/hithxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
